@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5c5c7a2f.css",
+    "main.js": "/static/js/main.81b92f46.js",
+    "static/js/787.9643ecdb.chunk.js": "/static/js/787.9643ecdb.chunk.js",
+    "static/media/pizza_banner.png": "/static/media/pizza_banner.a6fa8a50cd8712f7cb2f.png",
+    "static/media/pizza.jpg": "/static/media/pizza.b62c554e0110e1311998.jpg",
+    "static/media/salad.jpg": "/static/media/salad.b64919b0fe6f8915370a.jpg",
+    "static/media/dessert.jpg": "/static/media/dessert.225be955ff6308872f78.jpg",
+    "static/media/pasta.jpg": "/static/media/pasta.f3356f18495c00361605.jpg",
+    "static/media/burger.jpg": "/static/media/burger.318f748b3f213f5e0952.jpg",
+    "static/media/foody.png": "/static/media/foody.cec908103250498b6395.png",
+    "static/media/background.jpg": "/static/media/background.88c86cc4503a84c78ada.jpg",
+    "static/media/ClashDisplay-Medium.woff2": "/static/media/ClashDisplay-Medium.88a32cc8fc026d95af05.woff2",
+    "static/media/ClashDisplay-Regular.woff2": "/static/media/ClashDisplay-Regular.98b52bdf102085f28108.woff2",
+    "static/media/ClashDisplay-Bold.woff2": "/static/media/ClashDisplay-Bold.e2f8628a6f360f644a76.woff2",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "static/media/cart.svg": "/static/media/cart.2276ad715714ff0d6f0223caebec0359.svg",
+    "main.5c5c7a2f.css.map": "/static/css/main.5c5c7a2f.css.map",
+    "main.81b92f46.js.map": "/static/js/main.81b92f46.js.map",
+    "787.9643ecdb.chunk.js.map": "/static/js/787.9643ecdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c5c7a2f.css",
+    "static/js/main.81b92f46.js"
+  ]
+}
